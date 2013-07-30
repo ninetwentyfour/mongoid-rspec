@@ -22,4 +22,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'rake'
   s.add_dependency 'mongoid', '>= 3.0.1'
   s.add_dependency 'rspec'
+  s.add_dependency 'rspec-mocks', "3.0.0.pre"
 end
